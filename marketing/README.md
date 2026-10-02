@@ -15,3 +15,5 @@
 - Утверждённые модели: `assets/models/reference-sheets/F01_reference.png` … `M03_reference.png`; для кадра с педагогом — `T01_reference.png`.
 - Реальные продуктовые и посадочные референсы должны добавляться в `assets/product-references/` и `assets/people-references/`.
 - Готовые изображения серии 2027: `assets/campaigns/2027/`.
+- Реестр сочетаний каталогов и статусы генерации: `research/14-campaign-asset-registry.md`.
+- Канонические каталоги цветов, шрифтов и рисунков ожидают ручного добавления в `assets/catalogs/`; временные кандидаты перечислены в `assets/README.md`.
